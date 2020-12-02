@@ -5,17 +5,24 @@
 void main(){
 
     funcionalidadBasica();
+<<<<<<< HEAD
     funcionalidadExtra();
+=======
+    funcionalidadBasicaExtendida();
+>>>>>>> master
 
 }
 
 void funcionalidadBasica(){
     printf("Hello world!");
 }
-void funcionalidadBasicaExtendida(){
-    printf("Hola mundo!! Estamos en expansión");
-}
+<<<<<<< HEAD
 void funcionalidadExtra(){
     printf("Hola de nuevo");
 }
 
+=======
+void funcionalidadBasicaExtendida(){
+    printf("Hola mundo!! Estamos en expansión");
+}
+>>>>>>> master
