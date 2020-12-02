@@ -5,7 +5,7 @@
 void main(){
 
     funcionalidadBasica();
-    funcionalidadExtra();
+    funcionalidadBasicaExtendida();
 
 }
 
